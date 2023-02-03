@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=rounded&color=99CCFF&height=230&section=header&text=Yein%20Keum&fontSize=90" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=rounded&color=99CCFF&height=170&section=header&text=Yein%20Keum&fontSize=70" /></div>
 
 <br>
 <br>
