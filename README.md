@@ -1,7 +1,6 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=rounded&color=99CCFF&height=150&section=header&text=Yein%20Keum&fontSize=50" /></div>
 
 <br>
-<br>
 
 <div align=center>
 <h1>Tech</h1>
